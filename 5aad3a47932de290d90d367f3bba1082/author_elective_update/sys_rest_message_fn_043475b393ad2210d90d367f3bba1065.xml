@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Metadata Push To Git PDI [ Default GET ]</qualified_name>
+        <rest_endpoint>test</rest_endpoint>
+        <rest_message display_value="Metadata Push To Git PDI">bf23753793ad2210d90d367f3bba106f</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 10:29:01</sys_created_on>
+        <sys_id>043475b393ad2210d90d367f3bba1065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Test Git Sync 1" source="5aad3a47932de290d90d367f3bba1082">5aad3a47932de290d90d367f3bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Git Sync 1">5aad3a47932de290d90d367f3bba1082</sys_scope>
+        <sys_update_name>sys_rest_message_fn_043475b393ad2210d90d367f3bba1065</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 10:29:01</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Git Sync 1">5aad3a47932de290d90d367f3bba1082</application>
+        <file_path/>
+        <instance_id>c004d3a693142e9cd9f6ddd548373cec</instance_id>
+        <instance_name>dev301540</instance_name>
+        <name>sys_rest_message_fn_043475b393ad2210d90d367f3bba1065</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>Metadata Push To Git PDI [ Default GET ]</qualified_name><rest_endpoint>test</rest_endpoint><rest_message display_value="Metadata Push To Git PDI">bf23753793ad2210d90d367f3bba106f</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-23 10:29:01</sys_created_on><sys_id>043475b393ad2210d90d367f3bba1065</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="Test Git Sync 1" source="5aad3a47932de290d90d367f3bba1082">5aad3a47932de290d90d367f3bba1082</sys_package><sys_policy/><sys_scope display_value="Test Git Sync 1">5aad3a47932de290d90d367f3bba1082</sys_scope><sys_update_name>sys_rest_message_fn_043475b393ad2210d90d367f3bba1065</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-23 10:29:01</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>-1793143855</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>f5fc9fcb93ade290d90d367f3bba10df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 10:29:01</sys_created_on>
+        <sys_id>0c34797793ad2210d90d367f3bba10bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196fcb068b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 10:29:01</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>0034797706ad22103e3d7c6af54372bb</update_guid>
+        <update_guid_history>0034797706ad22103e3d7c6af54372bb:-1793143855</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 10:54:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>166d8165d4e4492c8e37865cbb9d0de4</sys_id>
+        <sys_metadata>043475b393ad2210d90d367f3bba1065</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Test Git Sync 1" source="5aad3a47932de290d90d367f3bba1082">5aad3a47932de290d90d367f3bba1082</sys_package>
+        <sys_parent display_value="Metadata Push To Git PDI">bf23753793ad2210d90d367f3bba106f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test Git Sync 1">5aad3a47932de290d90d367f3bba1082</sys_scope>
+        <sys_scope_delete display_value="">7f9e4241e6ac406b9c44696848c8f829</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_043475b393ad2210d90d367f3bba1065</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_043475b393ad2210d90d367f3bba1065">0c34797793ad2210d90d367f3bba10bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 10:54:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

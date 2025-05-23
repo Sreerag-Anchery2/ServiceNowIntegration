@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="Git New User">488e793f93ad2210d90d367f3bba10ca</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>Metadata Push To Git PDI</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>test</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 10:29:01</sys_created_on>
+        <sys_id>bf23753793ad2210d90d367f3bba106f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Metadata Push To Git PDI</sys_name>
+        <sys_package display_value="Test Git Sync 1" source="5aad3a47932de290d90d367f3bba1082">5aad3a47932de290d90d367f3bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Git Sync 1">5aad3a47932de290d90d367f3bba1082</sys_scope>
+        <sys_update_name>sys_rest_message_bf23753793ad2210d90d367f3bba106f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 12:14:29</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
