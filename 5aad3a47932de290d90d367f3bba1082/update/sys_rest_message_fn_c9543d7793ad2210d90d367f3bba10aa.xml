@@ -7,26 +7,26 @@
         <content>{&#13;
 "commitMessage": "Commit by GIT USER"&#13;
 }</content>
-        <function_name>POST PDI</function_name>
+        <function_name>POST</function_name>
         <http_method>post</http_method>
         <lock>false</lock>
         <oauth2_profile/>
         <protocol_name/>
-        <qualified_name>Metadata Push To Git PDI [ POST PDI ]</qualified_name>
+        <qualified_name>Metadata Push To Git PDI [ POST ]</qualified_name>
         <rest_endpoint>https://dev301540.service-now.com/api/sn_devstudio/v1/vcs/apps/5aad3a47932de290d90d367f3bba1082/repos/47ec174f93ade290d90d367f3bba1061/commits</rest_endpoint>
         <rest_message display_value="Metadata Push To Git PDI">bf23753793ad2210d90d367f3bba106f</rest_message>
         <sys_class_name>sys_rest_message_fn</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-23 10:52:29</sys_created_on>
         <sys_id>c9543d7793ad2210d90d367f3bba10aa</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>POST PDI</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>POST</sys_name>
         <sys_package display_value="Test Git Sync 1" source="5aad3a47932de290d90d367f3bba1082">5aad3a47932de290d90d367f3bba1082</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Git Sync 1">5aad3a47932de290d90d367f3bba1082</sys_scope>
         <sys_update_name>sys_rest_message_fn_c9543d7793ad2210d90d367f3bba10aa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-23 12:14:36</sys_updated_on>
+        <sys_updated_on>2025-05-24 09:08:18</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mid_server/>
         <use_mutual_auth>false</use_mutual_auth>

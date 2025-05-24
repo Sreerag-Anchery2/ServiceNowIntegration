@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers">
     <sys_rest_message_fn_headers action="INSERT_OR_UPDATE">
         <name>Content-Type</name>
-        <rest_message_function display_value="POST PDI">c9543d7793ad2210d90d367f3bba10aa</rest_message_function>
+        <rest_message_function display_value="POST">c9543d7793ad2210d90d367f3bba10aa</rest_message_function>
         <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-23 10:52:29</sys_created_on>
